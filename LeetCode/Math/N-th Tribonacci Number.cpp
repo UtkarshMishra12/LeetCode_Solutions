@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long int
-string largestOddNumber(string num) {
 int tribonacci(int n) {
         int dp[n+3];
         dp[0]=0;
